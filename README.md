@@ -1,4 +1,4 @@
-# Hey, it's Tatiane Moraes 🧑🏻‍💻
+# Hey, it's Tatiane Moraes 👩‍💻
 
 <div align="center">
 
