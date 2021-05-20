@@ -16,7 +16,7 @@
 ## 🤩 Where to find me
  
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatimoraes/)](https://www.linkedin.com/in/tatimoraes/)
-[![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tatimoraes)](https://github.com/tatimoraes)
+[![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tatianemoraes)](https://github.com/tatianemoraes)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:tatiane_213@hotmail.com)](mailto:tatiane_213@hotmail.com)
 
 ## 🛠 💻 Technologies & Tools
