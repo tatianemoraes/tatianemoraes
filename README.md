@@ -8,7 +8,7 @@
   <li> 💜 Passionate about front-end development </li>
   <li> 📚 Currently learning Jest </li>
   <li> 🙃 I speak English, Spanish and Portuguese-BR </li>
-  <li> 🏖 In my free time I like to watch series, watch movies, read book and spend time with my family  </li>
+  <li> 🏖 In my free time I like to watch tv shows, watch movies, read book and spend time with my family  </li>
  </ul>
 
 </div>
